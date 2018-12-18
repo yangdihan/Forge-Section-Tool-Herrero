@@ -1,0 +1,30 @@
+{
+  "name": "herrerotest1",
+  "version": "1.0.0",
+  "description": "test 1 follow learnforge.io tutorial",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangdihan/Forge-Viewer-for-BIM360.git"
+  },
+  "keywords": [
+    "Autodesk-Forge",
+    "BIM360"
+  ],
+  "author": "Dihan Yang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yangdihan/Forge-Viewer-for-BIM360/issues"
+  },
+  "homepage": "https://github.com/yangdihan/Forge-Viewer-for-BIM360#readme",
+  "dependencies": {
+    "cookie-session": "^2.0.0-beta.3",
+    "express": "^4.16.4",
+    "forge-apis": "^0.4.4",
+    "multer": "^1.4.1"
+  }
+}
