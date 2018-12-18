@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yangdihan/Forge-Viewer-for-BIM360.git"
+    "url": "git+https://github.com/yangdihan/Forge-Section-Tool-Herrero.git"
   },
   "keywords": [
     "Autodesk-Forge",
@@ -18,9 +18,9 @@
   "author": "Dihan Yang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yangdihan/Forge-Viewer-for-BIM360/issues"
+    "url": "https://github.com/yangdihan/Forge-Section-Tool-Herrero/issues"
   },
-  "homepage": "https://github.com/yangdihan/Forge-Viewer-for-BIM360#readme",
+  "homepage": "https://github.com/yangdihan/Forge-Section-Tool-Herrero#readme",
   "dependencies": {
     "cookie-session": "^2.0.0-beta.3",
     "express": "^4.16.4",
