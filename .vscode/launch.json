@@ -13,6 +13,10 @@
                 "FORGE_CLIENT_ID": "3Z2afmM1wkrr8pEWtmcPXMQQkMaiNDqf",
                 "FORGE_CLIENT_SECRET": "bv4A4Y9ShS2iKGsi",
                 "FORGE_CALLBACK_URL": "http://localhost:3000/api/forge/callback/oauth"
+                
+                // always need to change this on both:
+                //  https://forge.autodesk.com/myapps/HerreroTest1/view
+                //  https: //dashboard.heroku.com/apps/herrero-test1/settings
                 // "FORGE_CALLBACK_URL": "https://herrero-test1.herokuapp.com/api/forge/callback/oauth"
             }
         }

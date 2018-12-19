@@ -64,7 +64,7 @@ ModelSummaryExtension.prototype.createUI = function () {
             var propsToList = ['Material'];
 
             // get only the properties we need for the leaf dbIds
-            console.log(dbIds);
+            // console.log(dbIds);
             _this.viewer.model.getBulkProperties(dbIds, propsToList, function (dbIdsProps) {
 
                 // iterate through the elements we found
